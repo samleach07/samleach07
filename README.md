@@ -1,2 +1,3 @@
-Hi 
+## Hi
+
 Welcome to my GitHub profile!
